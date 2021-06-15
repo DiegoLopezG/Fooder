@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915883725381",
+    "firebase_url": "https://fooder-4b007.firebaseio.com",
+    "project_id": "fooder-4b007",
+    "storage_bucket": "fooder-4b007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915883725381:android:c20440432761bede4dc92c",
+        "android_client_info": {
+          "package_name": "mx.com.fodder.fooder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915883725381-krc0fivj9in0pd8kiihg6c93h98kb708.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.fodder.fooder",
+            "certificate_hash": "184b39a69049f515719302d5cbdcfc5eb4b16f52"
+          }
+        },
+        {
+          "client_id": "915883725381-hbcnhsk2k3ehgaqju8e6i63h8uete4kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHvSCHB3MFPGZURem1KRAUuTmPTVlnSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915883725381-hbcnhsk2k3ehgaqju8e6i63h8uete4kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
